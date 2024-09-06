@@ -1,5 +1,5 @@
 {
-    "name": "template-remix",
+    "name": "phaser-editor-template-remix",
     "description": "A Phaser 3 Remix project template that demonstrates Remix with React communication and uses Vite for bundling.",
     "sideEffects": false,
     "version": "1.0.1",
